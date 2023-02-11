@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Prince",
+        "degree": "Computer"
+    },
+    {
+        "name": "Romik",
+        "degree": "BCA"
+    },
+    {
+        "name": "Mahima",
+        "degree": "Engineer"
+    },
+    {
+        "name": "Yash",
+        "degree": "IOT"
+    },
+    {
+        "name": "Parth",
+        "degree": "ML"
+    }
+]
